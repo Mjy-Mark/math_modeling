@@ -1,6 +1,5 @@
 from im_data import my_data
 from scipy.stats import chi2_contingency
-import numpy as np
 
 color = my_data('color.xlsx')
 cls = my_data('class.xlsx')
